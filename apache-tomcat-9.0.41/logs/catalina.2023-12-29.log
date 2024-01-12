@@ -1,0 +1,42 @@
+29-Dec-2023 16:10:39.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.41
+29-Dec-2023 16:10:39.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 3 2020 11:43:00 UTC
+29-Dec-2023 16:10:39.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.41.0
+29-Dec-2023 16:10:39.337 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+29-Dec-2023 16:10:39.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+29-Dec-2023 16:10:39.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+29-Dec-2023 16:10:39.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18.0.2
+29-Dec-2023 16:10:39.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18.0.2+9-61
+29-Dec-2023 16:10:39.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+29-Dec-2023 16:10:39.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41
+29-Dec-2023 16:10:39.340 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41
+29-Dec-2023 16:10:39.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Dec-2023 16:10:39.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+29-Dec-2023 16:10:39.351 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Dec-2023 16:10:39.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\conf\logging.properties
+29-Dec-2023 16:10:39.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Dec-2023 16:10:39.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+29-Dec-2023 16:10:39.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+29-Dec-2023 16:10:39.354 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+29-Dec-2023 16:10:39.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41
+29-Dec-2023 16:10:39.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41
+29-Dec-2023 16:10:39.356 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\temp
+29-Dec-2023 16:10:39.360 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+29-Dec-2023 16:10:39.360 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+29-Dec-2023 16:10:39.360 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+29-Dec-2023 16:10:39.367 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+29-Dec-2023 16:10:39.674 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-4200"]
+29-Dec-2023 16:10:39.780 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [706] milliseconds
+29-Dec-2023 16:10:39.832 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Dec-2023 16:10:39.832 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.41]
+29-Dec-2023 16:10:39.842 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\docs]
+29-Dec-2023 16:10:40.179 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\docs] has finished in [336] ms
+29-Dec-2023 16:10:40.180 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\examples]
+29-Dec-2023 16:10:40.755 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\examples] has finished in [575] ms
+29-Dec-2023 16:10:40.755 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\host-manager]
+29-Dec-2023 16:10:40.804 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\host-manager] has finished in [48] ms
+29-Dec-2023 16:10:40.804 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\manager]
+29-Dec-2023 16:10:40.847 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\manager] has finished in [42] ms
+29-Dec-2023 16:10:40.848 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\ROOT]
+29-Dec-2023 16:10:40.895 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\AMG_Computers\Desktop\TKS-Project-2\apache-tomcat-9.0.41\webapps\ROOT] has finished in [47] ms
+29-Dec-2023 16:10:40.900 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-4200"]
+29-Dec-2023 16:10:40.912 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1129] milliseconds
